@@ -1,0 +1,35 @@
+9am - 6pm Mon-Fri Online on Teams
+
+Mentor: John PK Leong
+
+Week 1-2 Topic: AWS & Azure Cloud Services
+How: Teamed up with colleagues to split the research workload.
+When: Due in the following week
+
+Week 3-5 Topic: How to deploy the services (Include database and infrastructure design)
+How: Can look for ongoing projects on GitHub to try
+
+Week 5-7 Topic: AI/ML 
+
+Week 8-10 Topic: Self Chosen Topic
+How: Can use Open Source LLMs on LocalHost possible
+
+TLDR: So far, we have been using AWS services for our topic execution. What else can I do other than AWS.
+
+To Note:
+- Include what was learnt, process & lessons wise.
+
+Students To-Do:
+-Learning Outcome (Download as Word Doc. Mentor and SuYi Sign, Submit end of Internship)
+-Mentor Form
+
+Research on:
+
+Spec Driven Development(Vibe coding)
+
+Kiro
+
+Figma Make (UI)
+- Prompt for a frontend UI and get SDD to finish the backend 
+
+(Expected Enterprise based outcome)
